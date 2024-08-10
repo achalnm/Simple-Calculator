@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Simple Calculator</title>
 </head>
 <body>
     <div class="container">
@@ -27,7 +28,7 @@
             <p>To run this project locally, follow these steps:</p>
             <ol>
                 <li><strong>Clone the repository:</strong></li>
-                <pre><code>git clone https://github.com/achalnm/simple-calculator.git</code></pre>
+                <pre><code>git clone https://github.com/yourusername/simple-calculator.git</code></pre>
                 <li><strong>Navigate to the project directory:</strong></li>
                 <pre><code>cd simple-calculator</code></pre>
                 <li><strong>Open <code>index.html</code> in your web browser.</strong></li>
@@ -43,6 +44,7 @@
                 <li>Use the operator buttons (<code>+</code>, <code>-</code>, <code>×</code>, <code>÷</code>, <code>%</code>) to perform calculations.</li>
                 <li>Press <code>=</code> to calculate the result.</li>
                 <li>Use <code>AC</code> to clear all inputs and start a new calculation.</li>
+                <li>The backspace button (<code>⌫</code>) allows you to remove the last entered character.</li>
             </ul>
         </div>
         <div class="section">
@@ -58,10 +60,10 @@
             <h2>Contact</h2>
             <p>For any questions or feedback, please contact:</p>
             <ul>
-                <li><strong></strong>: <a href="https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto%3Aachalnm%40outlook.com">Outlook</a></li>
-                <li><strong></strong>: <a href="https://github.com/achalnm" target="_blank">GitHub</a></li>
-                <li><strong></strong>: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">LinkedIn</a></li>
-                <li><strong></strong>: <a href="https://www.instagram.com/achal_n26/" target="_blank">Instagram</a></li>
+                <li><strong>✉</strong> <a href="https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto%3Aachalnm%40outlook.com">Outlook</a></li>
+                <li><strong>💻</strong> <a href="https://github.com/achalnm" target="_blank">GitHub</a></li>
+                <li><strong>🔗</strong> <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">LinkedIn</a></li>
+                <li><strong>📷</strong> <a href="https://www.instagram.com/achal_n26/" target="_blank">Instagram</a></li>
             </ul>
         </div>
     </div>
