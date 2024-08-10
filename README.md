@@ -58,10 +58,10 @@
             <h2>Contact</h2>
             <p>For any questions or feedback, please contact:</p>
             <ul>
-                <li><strong>Outlook</strong>: <a href="https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto%3Aachalnm%40outlook.com">your.email@example.com</a></li>
-                <li><strong>GitHub</strong>: <a href="https://github.com/achalnm" target="_blank">GitHub</a></li>
-                <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">LinkedIn</a></li>
-                <li><strong>Instagram</strong>: <a href="https://www.instagram.com/achal_n26/" target="_blank">Instagram</a></li>
+                <li><strong></strong>: <a href="https://outlook.live.com/mail/0/deeplink/compose?mailtouri=mailto%3Aachalnm%40outlook.com">Outlook</a></li>
+                <li><strong></strong>: <a href="https://github.com/achalnm" target="_blank">GitHub</a></li>
+                <li><strong></strong>: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">LinkedIn</a></li>
+                <li><strong></strong>: <a href="https://www.instagram.com/achal_n26/" target="_blank">Instagram</a></li>
             </ul>
         </div>
     </div>
