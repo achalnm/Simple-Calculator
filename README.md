@@ -64,19 +64,16 @@
     <div class="contact-logos">
         <div class="contact-item">
             <a href="https://github.com/achalnm" target="_blank">
-                <img src="https://github.githubassets.com/favicon.ico" alt="GitHub" style="width: 48px; height: 48px;">
             </a>
             <span class="contact-text">GitHub: <a href="https://github.com/achalnm" target="_blank">achalnm</a></span>
         </div>
         <div class="contact-item">
             <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">
-                <img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" style="width: 48px; height: 48px;">
             </a>
             <span class="contact-text">LinkedIn: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">achal-n</a></span>
         </div>
         <div class="contact-item">
             <a href="https://www.instagram.com/achal_n26/" target="_blank">
-                <img src="https://instagram.com/favicon.ico" alt="Instagram" style="width: 48px; height: 48px;">
             </a>
             <span class="contact-text">Instagram: <a href="https://www.instagram.com/achal_n26/" target="_blank">achal_n26</a></span>
         </div>
