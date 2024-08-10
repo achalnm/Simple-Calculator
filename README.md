@@ -55,16 +55,22 @@
                 <li><strong>Flask</strong> (Optional): For serving the static files if using Flask.</li>
             </ul>
         </div>
-        <div class="section">
-            <h2>Contact</h2>
-            <p>For any questions or feedback, please contact:</p>
-            <ul>
-                <li><strong>✉</strong> <a href="mailto:achalnm@outlook.com">Email</a></li>
-                <li><a href="https://github.com/achalnm" target="_blank"><img src="https://github.com/favicon.ico" alt="GitHub" style="width: 32px; height: 32px; margin-right: 10px;"></a></li>
-                <li><a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank"><img src="https://linkedin.com/favicon.ico" alt="LinkedIn" style="width: 32px; height: 32px; margin-right: 10px;"></a></li>
-                <li><a href="https://www.instagram.com/achal_n26/" target="_blank"><img src="https://instagram.com/favicon.ico" alt="Instagram" style="width: 32px; height: 32px;"></a></li>
-            </ul>
-        </div>
+<div class="section">
+    <h2>Contact</h2>
+    <p>For any questions or feedback, please contact:</p>
+    <div class="contact-logos">
+        <a href="https://github.com/achalnm" target="_blank">
+            <img src="https://github.com/favicon.ico" alt="GitHub" style="width: 32px; height: 32px;">
+        </a>
+        <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">
+            <img src="https://linkedin.com/favicon.ico" alt="LinkedIn" style="width: 32px; height: 32px; margin-left: 10px;">
+        </a>
+        <a href="https://www.instagram.com/achal_n26/" target="_blank">
+            <img src="https://instagram.com/favicon.ico" alt="Instagram" style="width: 32px; height: 32px; margin-left: 10px;">
+        </a>
+    </div>
+</div>
+
     </div>
 </body>
 </html>
