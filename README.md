@@ -27,13 +27,14 @@
             <p>To run this project locally, follow these steps:</p>
             <ol>
                 <li><strong>Clone the repository:</strong></li>
-                <pre><code>git clone https://github.com/yourusername/simple-calculator.git</code></pre>
+                <pre><code>git clone https://github.com/achalnm/simple-calculator.git</code></pre>
                 <li><strong>Navigate to the project directory:</strong></li>
                 <pre><code>cd simple-calculator</code></pre>
-                <li><strong>Open <code>index.html</code> in your web browser.</strong></li>
-                <p>You can also use a local server to view the project. For example, you can use Python's built-in HTTP server:</p>
-                <pre><code>python -m http.server</code></pre>
-                <p>Then open <code>http://localhost:8000</code> in your web browser.</p>
+                <li><strong>Install dependencies:</strong></li>
+                <pre><code>pip install -r requirements.txt</code></pre>
+                <li><strong>Run the Flask application:</strong></li>
+                <pre><code>python app.py</code></pre>
+                <p>Open your web browser and go to <code>http://localhost:5000</code> to view the project.</p>
             </ol>
         </div>
         <div class="section">
@@ -55,29 +56,21 @@
                 <li><strong>Flask</strong> (Optional): For serving the static files if using Flask.</li>
             </ul>
         </div>
-<div class="section">
-    <h2>Contact</h2>
-    <p>For any questions or feedback, please contact:</p>
-<div class="section">
-    <h2>Contact</h2>
-    <p>For any questions or feedback, please contact:</p>
-    <div class="contact-logos">
-        <div class="contact-item">
-            <a href="https://github.com/achalnm" target="_blank">
-            </a>
-            <span class="contact-text">GitHub: <a href="https://github.com/achalnm" target="_blank">achalnm</a></span>
-        </div>
-        <div class="contact-item">
-            <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">
-            </a>
-            <span class="contact-text">LinkedIn: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">achal-n</a></span>
-        </div>
-        <div class="contact-item">
-            <a href="https://www.instagram.com/achal_n26/" target="_blank">
-            </a>
-            <span class="contact-text">Instagram: <a href="https://www.instagram.com/achal_n26/" target="_blank">achal_n26</a></span>
+        <div class="section">
+            <h2>Contact</h2>
+            <p>For any questions or feedback, please contact:</p>
+            <div class="contact-info">
+                <div class="contact-item">
+                    <span class="contact-text">GitHub: <a href="https://github.com/achalnm" target="_blank">achalnm</a></span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-text">LinkedIn: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">achal-n</a></span>
+                </div>
+                <div class="contact-item">
+                    <span class="contact-text">Instagram: <a href="https://www.instagram.com/achal_n26/" target="_blank">achal_n26</a></span>
+                </div>
+            </div>
         </div>
     </div>
-</div>
 </body>
 </html>
