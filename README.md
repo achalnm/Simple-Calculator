@@ -4,51 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>README - Simple Calculator</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #f9f9f9;
-            border: 1px solid #ddd;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        a {
-            color: #1e90ff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            border-bottom: 2px solid #ddd;
-            padding-bottom: 5px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -67,10 +22,6 @@
                 <li><strong>Modulus Operation</strong>: Calculate remainders with the modulus operator.</li>
                 <li><strong>Responsive Layout</strong>: Optimized for different devices and screen sizes.</li>
             </ul>
-        </div>
-        <div class="section">
-            <h2>Live Demo</h2>
-            <p>You can view a live demo of the calculator <a href="https://your-demo-url.com" target="_blank">here</a>.</p>
         </div>
         <div class="section">
             <h2>Installation</h2>
@@ -106,27 +57,13 @@
             </ul>
         </div>
         <div class="section">
-            <h2>Contributing</h2>
-            <p>Contributions are welcome! If you'd like to contribute to this project, please follow these steps:</p>
-            <ol>
-                <li>Fork the repository.</li>
-                <li>Create a new branch (<code>git checkout -b feature/your-feature</code>).</li>
-                <li>Commit your changes (<code>git commit -am 'Add new feature'</code>).</li>
-                <li>Push to the branch (<code>git push origin feature/your-feature</code>).</li>
-                <li>Create a new Pull Request.</li>
-            </ol>
-        </div>
-        <div class="section">
-            <h2>License</h2>
-            <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-        </div>
-        <div class="section">
             <h2>Contact</h2>
             <p>For any questions or feedback, please contact:</p>
             <ul>
                 <li><strong>Your Name</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-                <li><strong>GitHub</strong>: <a href="https://github.com/yourusername" target="_blank">yourusername</a></li>
-                <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yourusername/" target="_blank">Your LinkedIn</a></li>
+                <li><strong>GitHub</strong>: <a href="https://github.com/achalnm" target="_blank">GitHub</a></li>
+                <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank">LinkedIn</a></li>
+                <li><strong>Instagram</strong>: <a href="https://www.instagram.com/achal_n26/" target="_blank">Instagram</a></li>
             </ul>
         </div>
     </div>
