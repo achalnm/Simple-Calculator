@@ -3,77 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Simple Calculator</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: linear-gradient(to right, #ff7e5f, #feb47b);
-            color: #333;
-        }
-
-        .container {
-            width: 80%;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            color: #333;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        h2 {
-            color: #ff7e5f;
-            border-bottom: 2px solid #ff7e5f;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
-
-        .section {
-            margin-bottom: 30px;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        ul li {
-            margin-bottom: 10px;
-        }
-
-        a {
-            color: #ff7e5f;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-        }
-
-        .social-links a {
-            display: inline-block;
-        }
-
-        .social-links img {
-            width: 30px;
-            height: 30px;
-            vertical-align: middle;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
@@ -131,9 +60,9 @@
             <p>For any questions or feedback, please contact:</p>
             <ul>
                 <li><strong>✉</strong> <a href="mailto:achalnm@outlook.com">Email</a></li>
-                <li><a href="https://github.com/achalnm" target="_blank"><img src="https://github.com/favicon.ico" alt="GitHub"> GitHub</a></li>
-                <li><a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank"><img src="https://linkedin.com/favicon.ico" alt="LinkedIn"> LinkedIn</a></li>
-                <li><a href="https://www.instagram.com/achal_n26/" target="_blank"><img src="https://instagram.com/favicon.ico" alt="Instagram"> Instagram</a></li>
+                <li><a href="https://github.com/achalnm" target="_blank"><img src="https://github.com/favicon.ico" alt="GitHub" style="width: 32px; height: 32px; margin-right: 10px;"></a></li>
+                <li><a href="https://www.linkedin.com/in/achal-n-35153821b/" target="_blank"><img src="https://linkedin.com/favicon.ico" alt="LinkedIn" style="width: 32px; height: 32px; margin-right: 10px;"></a></li>
+                <li><a href="https://www.instagram.com/achal_n26/" target="_blank"><img src="https://instagram.com/favicon.ico" alt="Instagram" style="width: 32px; height: 32px;"></a></li>
             </ul>
         </div>
     </div>
