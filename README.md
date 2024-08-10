@@ -33,7 +33,7 @@
                 <li><strong>Install dependencies:</strong></li>
                 <pre><code>pip install -r requirements.txt</code></pre>
                 <li><strong>Run the Flask application:</strong></li>
-                <pre><code>python app.py</code></pre>
+                <pre><code>python app.py runserver</code></pre>
                 <p>Open your web browser and go to <code>http://localhost:5000</code> to view the project.</p>
             </ol>
         </div>
@@ -44,7 +44,6 @@
                 <li>Use the operator buttons (<code>+</code>, <code>-</code>, <code>×</code>, <code>÷</code>, <code>%</code>) to perform calculations.</li>
                 <li>Press <code>=</code> to calculate the result.</li>
                 <li>Use <code>AC</code> to clear all inputs and start a new calculation.</li>
-                <li>The backspace button (<code>⌫</code>) allows you to remove the last entered character.</li>
             </ul>
         </div>
         <div class="section">
